@@ -1,5 +1,5 @@
 ![ProductAOSP](https://raw.githubusercontent.com/ProductAOSP/Assets/main/ProductAOSPHeader.png)
-### <p align="center">a custom rom for everyone else</p>
+### <p align="center">a custom rom for normal people</p>
 ----
 ### Features:
 #### ⚡ Fast & Light: ProductAOSP is nothing but AOSP with gapps (and some other tweaks), meaning Product will outperform other ROMs by a significant amount
